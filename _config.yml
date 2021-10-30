@@ -42,7 +42,7 @@ social-network-links:
   email: "yu435189575@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
-  github: daattali
+  github: AristoYU
   # twitter: daattali
   # patreon: DeanAttali
   # youtube: c/daattali
@@ -211,7 +211,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Asia/Shanghai"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
